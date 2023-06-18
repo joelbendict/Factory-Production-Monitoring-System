@@ -1,0 +1,11 @@
+{
+  "name": "factory-production-monitoring-system",
+  "version": "1.0.0",
+  "description": "Building a web-based production monitoring system for a factory to track and analyze production data in real-time. The system will provide insights into production efficiency, downtime analysis, and quality control. It will help optimize production processes, identify bottlenecks, and improve overall productivity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joel",
+  "license": "ISC"
+}
